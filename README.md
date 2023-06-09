@@ -24,7 +24,7 @@
 
 
 ## 👩🏽‍💻About me
-I´m a full stack developer and a third year college student majoring in Digital Business. I started coding when I was 17, and haven´t stopped since. I´m experienced in web development and am currently learning mobile development with React Native.
+I´m a Front-end developer. I started coding when I was 15, and haven´t stopped since. I´m experienced in web development and am currently learning new technologies and builing my skillset.
 
 ### 💡Skills
 - HTML, CSS and JavaScript 
@@ -33,13 +33,13 @@ I´m a full stack developer and a third year college student majoring in Digital
 - Node JS
 - SQL
 
-I also know how to use popular libraries like Bootstrap, Angular Material, Material UI, among others.
+<!-- I also know how to use popular libraries like Bootstrap, Angular Material, Material UI, among others. -->
 
-### 📕Portfolio
+<!-- ### 📕Portfolio
 You can check out some of my work here in my profile. I have built landing pages for small busuiness, photography portfolios for friends, a CMS for uploading makeup reviews, music webapps based on Deezers API, and many other small projects where I practice different skills. I´m always trying to learn new things to improve my skills. 
-
+ -->
 ### 📞Contact
 Interested in having someone build you a website? Let´s talk!
 
-- email: davidoluremi0@gmail.com
-- linkedin: https://www.linkedin.com/in/maria-pe%C3%B1a-721b531a3/
+- [Send a mail!](mailto:davidoluremi0@gmail.com)
+- [linkedin!](https://www.linkedin.com/in/david-oluremi-584875246/)
