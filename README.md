@@ -3,7 +3,6 @@
 - [Hi there](#hi-there)
 - [About me](#about-me)
 - [Skills](#skills)
-- [Portfolio](#portfolio)
 - [Contact](#contact)
 
 ## Hi there 
