@@ -23,7 +23,7 @@
 
 
 ## 👩🏽‍💻About me
-I´m a Front-end developer. I started coding when I was 15, and haven´t stopped since. I´m experienced in web development and am currently learning new technologies and builing my skillset.
+I´m a Front-end developer. I started coding when I was 15, and haven´t stopped since. I´m experienced in web development and I'm currently learning new technologies and builing my skillset.
 
 ### 💡Skills
 - HTML, CSS and JavaScript 
