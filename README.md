@@ -1,4 +1,4 @@
-![](./img/header.png)
+[![An image of @vectorgits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vectorgits)](https://holopin.io/@vectorgits)
 ## Table of contents
 - [Hi there](#hi-there)
 - [About me](#about-me)
