@@ -11,11 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Frontend Projects**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Software engineering** at [ALX](https://www.alxafrica.com/software-engineering/)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/VectorGits/VectorGits/issues)**
+
+👯 I’m looking to collaborate on **open source projects**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -39,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma&perline=7" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,flask,postgres,wordpress,windows,kali,tailwind,git&perline=10" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,flask,postgres,wordpress,windows,kali,tailwind,git" /><br>
 </div>
 
 <br/>
@@ -50,7 +52,14 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+ <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vectorgits/vectorgits/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
   <br/><br/><br/>
 </div>
@@ -58,11 +67,27 @@
 <hr/>
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VectorGits&theme=gruvbox-duo&card_width=390" alt="GitHub Streak" /></a>
+  <br/>
+  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />
+  <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorgits&layout=compact&theme=dark" />&nbsp;&nbsp;
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
 [![An image of @vectorgits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vectorgits)](https://holopin.io/@vectorgits)
 
 <!-- **VectorGits/VectorGits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- Here are some ideas to get you started: -->
+<!-- Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on Frontend Projects
 - 🌱 I’m currently learning Software engineering at [ALX](https://www.alxafrica.com/software-engineering/)
@@ -76,4 +101,4 @@
 
 
 - [Send a mail!](mailto:davidoluremi0@gmail.com)
-- [linkedin!](https://www.linkedin.com/in/david-oluremi-584875246/)
+- [linkedin!](https://www.linkedin.com/in/david-oluremi-584875246/) -->
