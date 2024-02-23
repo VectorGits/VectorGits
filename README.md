@@ -21,15 +21,12 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
 
- <div align="center"> 
-  <a href="mailto:davidoluremi0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/vect0r" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/vector_0001) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/Vector_Twits) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vect0r/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+ </div>
  <!-- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
   </a> -->
@@ -49,7 +46,7 @@
 <hr/>
 
 <div align="center">
- ## 💡 A Quote:
+<h2>💡 A Quote:</h2>
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -78,7 +75,7 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VectorGits&theme=gruvbox-duo&card_width=390" alt="GitHub Streak" /></a>
   <br/>
-  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />
+  <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vectorgits&show_icons=true&count_private=true&theme=dark" />
   <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorgits&layout=compact&theme=dark" />&nbsp;&nbsp;
 </div>
 
@@ -86,10 +83,12 @@
 
 <hr/>
 
-<br/>
-
+<div align="center">
+<h2>Badges 🏆</h2>
 
 [![An image of @vectorgits's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vectorgits)](https://holopin.io/@vectorgits)
+
+</div>
 
 <!-- **VectorGits/VectorGits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
