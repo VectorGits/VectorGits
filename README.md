@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Frontend Projects**
+ 🔭 I’m currently getting a hang of **APIs**
  
  🌱 I’m currently learning **Software engineering** at [ALX](https://www.alxafrica.com/software-engineering/)
 
