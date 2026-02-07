@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently getting a hang of **APIs**
+ 🔭 I’m currently getting a hang of **Machine Learning**
  
- 🌱 I’m currently learning **Software engineering** at [ALX](https://www.alxafrica.com/software-engineering/)
+ 🌱 I’m currently learning **Software engineering** at [Miva Open University](https://miva.university)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/VectorGits/VectorGits/issues)**
+💬 Ask me about **Anime, Hobbies, Chess... or anything [here](https://github.com/VectorGits/VectorGits/issues)**
 
 👯 I’m looking to collaborate on **open source projects**
 
@@ -25,7 +25,7 @@
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/vector_0001) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/Vector_Twits) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vect0r/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:davidoluremi0@gmail.com?subject=Hello%20Vector,%20From%20Github)
  </div>
  <!-- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
