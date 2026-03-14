@@ -5,7 +5,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=600&size=35&duration=4000&pause=1000&color=27F760&center=true&vCenter=true&random=false&width=435&lines=Hello+There+%F0%9F%96%96;I'm+Vector" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center"> A Unique Software Engineer from Nigeria 🇳🇬 </h3>
+<h3 align="center"> Mid-Level Frontend Engineer | Aiming for the Creative 1% 😤 </h3>
 
 </br>
 
@@ -13,7 +13,7 @@
  
  🔭 I’m currently getting a hang of **Machine Learning**
  
- 🌱 I’m currently learning **Software engineering** at [Miva Open University](https://miva.university)
+ 🌱 Senior Year **Software engineering** student at [Miva Open University](https://miva.university)
 
 💬 Ask me about **Anime, Hobbies, Chess... or anything [here](https://github.com/VectorGits/VectorGits/issues)**
 
@@ -38,8 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,flask,postgres,wordpress,windows,kali,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,git" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,nodejs,nextjs" /><br>
 </div>
 
 <br/>
